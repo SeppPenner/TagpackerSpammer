@@ -52,7 +52,7 @@ crontab -e
 or 
 
 ```batch
-sudo crontab -e or sudo 
+sudo crontab -e 
 ```
 
 Add the following line (With replacing the pathtofile of course) to run the script every minute:
