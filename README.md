@@ -1,6 +1,6 @@
 TagpackerSpammer
 ====================================
-TagpackerSpammer is a software written in Python. Its goal is to spam the website [tagpacker.com](www.tagpacker.com).
+TagpackerSpammer is a software written in Python. Its goal is to spam the website [tagpacker.com](https://tagpacker.com).
 
 [![Build status](https://ci.appveyor.com/api/projects/status/du912lbew4k86yab?svg=true)](https://ci.appveyor.com/project/SeppPenner/tagpackerspammer)
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/TagpackerSpammer.svg)](https://github.com/SeppPenner/TagpackerSpammer/issues)
@@ -9,7 +9,7 @@ TagpackerSpammer is a software written in Python. Its goal is to spam the websit
 [![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/SeppPenner/TagpackerSpammer/master/License.txt)
 
 ## Basic usage:
-Adjust the accounts in the [TagpackerSpammer.py](https://raw.githubusercontent.com/SeppPenner/TagpackerSpammer/master/TagpackerSpammer.py) file.
+Adjust the accounts in the [TagpackerSpammer.py](https://github.com/SeppPenner/TagpackerSpammer/blob/master/TagpackerSpammer.py) file.
 
 The api keys can be taken from tagpacker.com --> Settings --> Account --> API access.
 
