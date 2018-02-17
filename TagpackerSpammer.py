@@ -1,5 +1,6 @@
 import json
 import requests
+import sys
 from random import choice
 from time import sleep
 
@@ -42,7 +43,7 @@ def postTag(tagpackerConnection, headers):
 		response = requests.post(tagpackerConnection + '/tags', data=json.dumps(getRandomTag()), headers=headers)
 		return response.json()
 	except:
-		print "Unexpected error:", sys.exc_info()[0]
+		print("Unexpected error:", sys.exc_info()[0])
 	
 def postTagpack(tagpackerConnection, headers):
 	"Creates a new tagpack"
@@ -50,7 +51,7 @@ def postTagpack(tagpackerConnection, headers):
 		response = requests.post(tagpackerConnection + '/tagpacks', data=json.dumps(getRandomTagpack()), headers=headers)
 		return response.json()
 	except:
-		print "Unexpected error:", sys.exc_info()[0]
+		print("Unexpected error:", sys.exc_info()[0])
 	
 def postLink(tagpackerConnection, headers):
 	"Creates a new link"
@@ -58,7 +59,7 @@ def postLink(tagpackerConnection, headers):
 		response = requests.post(tagpackerConnection + '/links', data=json.dumps(getRandomLink()), headers=headers)
 		return response.json()
 	except:
-		print "Unexpected error:", sys.exc_info()[0]
+		print("Unexpected error:", sys.exc_info()[0])
 
 def post7Tags(tagpackerConnection, headers):
 	"Creates 7 new tags"

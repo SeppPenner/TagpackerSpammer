@@ -33,8 +33,6 @@ Python 3.x
 ```batch
 pip install json
 pip install requests
-pip install random
-pip install time
 ```
 
 and adjust the execution rights:
