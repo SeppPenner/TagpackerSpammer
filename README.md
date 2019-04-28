@@ -1,12 +1,13 @@
 TagpackerSpammer
 ====================================
-TagpackerSpammer is a software written in Python 3.7.1. Its goal is to spam the website [tagpacker.com](https://tagpacker.com).
+TagpackerSpammer is a software written in Python 3.7.3. Its goal is to spam the website [tagpacker.com](https://tagpacker.com).
 
 [![Build status](https://ci.appveyor.com/api/projects/status/du912lbew4k86yab?svg=true)](https://ci.appveyor.com/project/SeppPenner/tagpackerspammer)
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/TagpackerSpammer.svg)](https://github.com/SeppPenner/TagpackerSpammer/issues)
 [![GitHub forks](https://img.shields.io/github/forks/SeppPenner/TagpackerSpammer.svg)](https://github.com/SeppPenner/TagpackerSpammer/network)
 [![GitHub stars](https://img.shields.io/github/stars/SeppPenner/TagpackerSpammer.svg)](https://github.com/SeppPenner/TagpackerSpammer/stargazers)
 [![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/SeppPenner/TagpackerSpammer/master/License.txt)
+[![Known Vulnerabilities](https://snyk.io/test/github/SeppPenner/TagpackerSpammer/badge.svg)](https://snyk.io/test/github/SeppPenner/TagpackerSpammer)
 
 ## Basic usage:
 Adjust the accounts in the [TagpackerSpammer.py](https://github.com/SeppPenner/TagpackerSpammer/blob/master/TagpackerSpammer.py) file.
