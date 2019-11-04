@@ -6,7 +6,7 @@ TagpackerSpammer is a software written in Python 3.7.4. Its goal is to spam the 
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/TagpackerSpammer.svg)](https://github.com/SeppPenner/TagpackerSpammer/issues)
 [![GitHub forks](https://img.shields.io/github/forks/SeppPenner/TagpackerSpammer.svg)](https://github.com/SeppPenner/TagpackerSpammer/network)
 [![GitHub stars](https://img.shields.io/github/stars/SeppPenner/TagpackerSpammer.svg)](https://github.com/SeppPenner/TagpackerSpammer/stargazers)
-[![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/SeppPenner/TagpackerSpammer/master/License.txt)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/SeppPenner/TagpackerSpammer/master/License.txt)
 [![Known Vulnerabilities](https://snyk.io/test/github/SeppPenner/TagpackerSpammer/badge.svg)](https://snyk.io/test/github/SeppPenner/TagpackerSpammer)
 
 ## Basic usage:
