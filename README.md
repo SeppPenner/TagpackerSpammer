@@ -1,6 +1,6 @@
 TagpackerSpammer
 ====================================
-TagpackerSpammer is a software written in Python 3.7.4. Its goal is to spam the website [tagpacker.com](https://tagpacker.com).
+TagpackerSpammer is a software written in Python 3. Its goal is to spam the website [tagpacker.com](https://tagpacker.com).
 
 [![Build status](https://ci.appveyor.com/api/projects/status/du912lbew4k86yab?svg=true)](https://ci.appveyor.com/project/SeppPenner/tagpackerspammer)
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/TagpackerSpammer.svg)](https://github.com/SeppPenner/TagpackerSpammer/issues)
@@ -66,5 +66,4 @@ Only 20 requests per api key per minute are allowed!!!
 Change history
 --------------
 
-* **Version 1.0.0.1 (2019-09-29)** : Updated python version, updated requirements.
-* **Version 1.0.0.0 (2018-02-17)** : 1.0 release.
+See the [Changelog](https://github.com/SeppPenner/TagpackerSpammer/blob/master/Changelog.md).
